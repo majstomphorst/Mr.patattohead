@@ -8,4 +8,5 @@ With the switches on the screen you are able to hide or onhide mr.Potatohead
 The scaling is on some devices not perfect.
 The image will get a bit stretched.
 
-# Screenshots
+# Screenshot
+![alt tag](https://github.com/majstomphorst/Mr.patattohead/blob/master/doc/screenshot.jpg)
