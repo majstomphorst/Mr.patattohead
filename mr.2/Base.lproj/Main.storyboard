@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12118" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
-    <device id="retina4_7" orientation="portrait">
+    <device id="retina4_0" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
@@ -18,47 +18,47 @@
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="Yjj-TJ-89S">
-                                <rect key="frame" x="0.0" y="20" width="375" height="647"/>
+                                <rect key="frame" x="0.0" y="20" width="320" height="548"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="BZX-p2-i8b" userLabel="Display">
-                                        <rect key="frame" x="0.0" y="0.0" width="375" height="323.5"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="320" height="274"/>
                                         <subviews>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arms" translatesAutoresizingMaskIntoConstraints="NO" id="Vl6-iw-rcy">
-                                                <rect key="frame" x="4" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-23.5" y="0.0" width="367" height="274"/>
                                             </imageView>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="body" translatesAutoresizingMaskIntoConstraints="NO" id="JTP-Pi-YVE">
-                                                <rect key="frame" x="3.5" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-24" y="0.0" width="367" height="274"/>
                                             </imageView>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ears" translatesAutoresizingMaskIntoConstraints="NO" id="NtC-oM-EAa">
-                                                <rect key="frame" x="4" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-23.5" y="0.0" width="367" height="274"/>
                                             </imageView>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="eyebrows" translatesAutoresizingMaskIntoConstraints="NO" id="2qW-gj-2v7">
-                                                <rect key="frame" x="4" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-23.5" y="0.0" width="367" height="274"/>
                                             </imageView>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="eyes" translatesAutoresizingMaskIntoConstraints="NO" id="dxj-Ej-PFB">
-                                                <rect key="frame" x="4" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-23.5" y="0.0" width="367" height="274"/>
                                             </imageView>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="glasses" translatesAutoresizingMaskIntoConstraints="NO" id="7Kx-I9-rYZ">
-                                                <rect key="frame" x="4" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-23.5" y="0.0" width="367" height="274"/>
                                             </imageView>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="hat" translatesAutoresizingMaskIntoConstraints="NO" id="yIH-GA-IDa">
-                                                <rect key="frame" x="4" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-23.5" y="0.0" width="367" height="274"/>
                                             </imageView>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mouth" translatesAutoresizingMaskIntoConstraints="NO" id="GBy-vd-cUs">
-                                                <rect key="frame" x="4" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-23.5" y="0.0" width="367" height="274"/>
                                             </imageView>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mustache" translatesAutoresizingMaskIntoConstraints="NO" id="TSQ-Gy-ivW">
-                                                <rect key="frame" x="4" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-23.5" y="0.0" width="367" height="274"/>
                                             </imageView>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nose" translatesAutoresizingMaskIntoConstraints="NO" id="PNA-sg-Wb9">
-                                                <rect key="frame" x="4" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-23.5" y="0.0" width="367" height="274"/>
                                             </imageView>
                                             <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="shoes" translatesAutoresizingMaskIntoConstraints="NO" id="NES-P2-CuR">
-                                                <rect key="frame" x="4" y="0.0" width="367" height="323.5"/>
+                                                <rect key="frame" x="-23.5" y="0.0" width="367" height="274"/>
                                             </imageView>
                                         </subviews>
                                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
@@ -99,10 +99,10 @@
                                         </constraints>
                                     </view>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zN3-yc-Ws8" userLabel="Control">
-                                        <rect key="frame" x="0.0" y="323.5" width="375" height="323.5"/>
+                                        <rect key="frame" x="0.0" y="274" width="320" height="274"/>
                                         <subviews>
                                             <stackView opaque="NO" contentMode="scaleToFill" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="81Z-XV-Gx3" userLabel="Center-control">
-                                                <rect key="frame" x="138.5" y="10" width="98.5" height="31"/>
+                                                <rect key="frame" x="111" y="10" width="98.5" height="31"/>
                                                 <subviews>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Body" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bLC-98-ARU">
                                                         <rect key="frame" x="0.0" y="0.0" width="39.5" height="31"/>
@@ -119,13 +119,13 @@
                                                 </subviews>
                                             </stackView>
                                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="Edj-ii-FC1">
-                                                <rect key="frame" x="10" y="51" width="355" height="262.5"/>
+                                                <rect key="frame" x="10" y="51" width="300" height="213"/>
                                                 <subviews>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4G2-af-kKW" userLabel="Left-control">
-                                                        <rect key="frame" x="0.0" y="0.0" width="172.5" height="262.5"/>
+                                                        <rect key="frame" x="0.0" y="0.0" width="145" height="213"/>
                                                         <subviews>
                                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="QAT-kO-2Go">
-                                                                <rect key="frame" x="20" y="44" width="133" height="175"/>
+                                                                <rect key="frame" x="6.5" y="19.5" width="133" height="175"/>
                                                                 <subviews>
                                                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="Wai-Sf-kxR">
                                                                         <rect key="frame" x="0.0" y="0.0" width="133" height="31"/>
@@ -222,10 +222,10 @@
                                                         </constraints>
                                                     </view>
                                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DtP-vj-lDi" userLabel="Right- control">
-                                                        <rect key="frame" x="182.5" y="0.0" width="172.5" height="262.5"/>
+                                                        <rect key="frame" x="155" y="0.0" width="145" height="213"/>
                                                         <subviews>
                                                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="Nyq-4k-pEO">
-                                                                <rect key="frame" x="19.5" y="44" width="134.5" height="175"/>
+                                                                <rect key="frame" x="6" y="19.5" width="134.5" height="175"/>
                                                                 <subviews>
                                                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="s9V-0V-K75">
                                                                         <rect key="frame" x="0.0" y="0.0" width="134.5" height="31"/>
